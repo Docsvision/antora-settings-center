@@ -1,2 +1,4 @@
 * Администрирование модуля
 ** xref:install.adoc[]
+** xref:create-card-scheme.adoc[]
+** xref:create-layout.adoc[]
