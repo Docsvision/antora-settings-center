@@ -1,8 +1,8 @@
-name: application-designer
+name: settings-center
 version: 'dev'
 display_version: 'dev'
 prerelease: true
-title: Конструктор приложений
+title: Центр настроек
 asciidoc:
   attributes:
     pl-req: 'версии 6.1'
@@ -12,8 +12,8 @@ asciidoc:
     to-req: 'версии 6.1'
     win-req: 'версии 6.1'
     ws-req: 'версии 6.1'
-    appd: Конструктор приложений
-    of-appd: Конструктора приложений
+    sc: Центр настроек
+    of-sc: Центра настроек
 
 nav:
 - modules/ROOT/nav.adoc

@@ -1,2 +1,2 @@
-.xref:index.adoc[{appd}]
+.xref:index.adoc[{sc}]
 * xref:index.adoc[]

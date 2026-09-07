@@ -1,10 +1,10 @@
-= Администрирование конструктора приложений
+= Администрирование {of-sc}
 
 . Установите
 . Укажите в `appsettings.json` параметр menu:ServiceOptions[ConnectionString], указав базу хранения настроек:
 +
  "Data Source=localhost;Initial Catalog=AppBuilder;Integrated Security=False;User ID=sa;Password=P@ssw0rd;Encrypt=False;TrustServerCertificate=True"
 +
-. Запустите {appd} в отдельном режиме, перейдите по адресу `\http://application-designer.domain:5400`, чтобы открыть конструктор.
-. Чтобы запустить {appd} в режиме Констуктора разметок, перейдите по адресу `http://web-client-server:5004/#/appbuilder`.
-. При запуске в режиме констуктора разметок вы будете перенаправлены на страницу `#/appbuilder/backend-connection`, где нужно ввести адрес {of-appd}.
+. Запустите {sc} в отдельном режиме, перейдите по адресу `\http://application-designer.domain:5400`, чтобы открыть {sc}.
+. Чтобы запустить {sc} в режиме Констуктора разметок, перейдите по адресу `http://web-client-server:5004/#/appbuilder`.
+. При запуске в режиме констуктора разметок вы будете перенаправлены на страницу `#/appbuilder/backend-connection`, где нужно ввести адрес {of-sc}.
