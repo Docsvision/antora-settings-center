@@ -1,0 +1,10 @@
+= Общие настройки
+
+Общие настройки определяются для карточек любых типов и видов. См. xref:kind-settings.adoc#general-tab[Раздел "Общие"].
+
+.При помощи данных настроек можно определить:
+* xref:general-forbid-card.adoc[Запрет] на создание карточек данного вида.
+* xref:general-hide-kind.adoc[Доступность] вида для выбора.
+* xref:general-inherit.adoc[Настройки] наследования.
+* xref:general-business-process.adoc[Процессы].
+* xref:card-create-mode.adoc[Способ] создания карточек.

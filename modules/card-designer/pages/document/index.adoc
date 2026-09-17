@@ -1,0 +1,19 @@
+:page-layout: home
+
+= Карточки типа "Документ"
+
+[tabs]
+====
+Карточки типа "Документ"::
++
+.Информация для администратора
+****
+Информация по настройке карточек типа "Документ".
+
+* xref:document/attached-files.adoc[]
+* xref:document/export-xslt.adoc[]
+* xref:document/signature-settings.adoc[]
+* xref:document/index.adoc[Больше...]
+****
+====
+

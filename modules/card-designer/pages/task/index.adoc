@@ -1,0 +1,19 @@
+:page-layout: home
+
+= Карточки типа "Задание"
+
+[tabs]
+====
+Карточки типа "Задание"::
++
+.Настройки типа "Задание"
+****
+Информация по настройке карточек типа "Задание".
+
+* xref:task/settings-parameters.adoc[]
+* xref:task/delegate.adoc[]
+* xref:task/subordinate-task.adoc[]
+* xref:task/index.adoc[Больше...]
+****
+====
+
